@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning: **React, Node, Express, AWS**
 
-- 💬 Ask me about: **React, Node, Express**
+- 💬 Ask me about: **React, Node, Django**
 
 - 📫 How to reach me? **mmalek.abs@outlook.com**
 
