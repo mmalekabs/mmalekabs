@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Malek</h1>
-<h3 align="center">Experienced MERN stack web developer. Passionate about building scalable and efficient web applications</h3>
+<h3 align="center">Fullstack Developer. Passionate about building scalable and efficient web applications</h3>
 
 - 🌱 I’m currently learning: **React, Node, Express, AWS**
 
